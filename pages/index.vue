@@ -716,15 +716,15 @@ function apply_class_exclusion(e)
                     contain-intrinsic-size: 3000px 1500px
                 }
             </style>
-            <link rel="alternate" href="https://www.centralcons.vn/" hreflang="vi" />
-            <link rel="alternate" href="https://www.centralcons.vn/en/" hreflang="en" />
-            <link rel="alternate" href="https://www.centralcons.vn/ch/" hreflang="zh" />
+            <link rel="alternate" href="/" hreflang="vi" />
+            <link rel="alternate" href="/en/" hreflang="en" />
+            <link rel="alternate" href="/ch/" hreflang="zh" />
 
             <!-- This site is optimized with the Yoast SEO plugin v22.1 - https://yoast.com/wordpress/plugins/seo/ -->
             <title>CÔNG TY CỔ PHẦN XÂY DỰNG CENTRAL</title>
             <meta name="description"
                 content="CENTRAL được hình thành và phát triển với khát khao tạo dựng nên những công trình kiến trúc kỳ vĩ có độ bền đến hàng thế kỷ." />
-            <link rel="canonical" href="https://www.centralcons.vn/" />
+            <link rel="canonical" href="/" />
             <meta property="og:locale" content="vi_VN" />
             <meta property="og:locale:alternate" content="en_US" />
             <meta property="og:locale:alternate" content="zh_CN" />
@@ -732,7 +732,7 @@ function apply_class_exclusion(e)
             <meta property="og:title" content="CÔNG TY CỔ PHẦN XÂY DỰNG CENTRAL" />
             <meta property="og:description"
                 content="CENTRAL được hình thành và phát triển với khát khao tạo dựng nên những công trình kiến trúc kỳ vĩ có độ bền đến hàng thế kỷ." />
-            <meta property="og:url" content="https://www.centralcons.vn/" />
+            <meta property="og:url" content="/" />
             <meta property="og:site_name" content="CENTRAL" />
             <meta property="article:modified_time" content="2025-04-05T09:34:11+00:00" />
             <meta property="og:image"
@@ -747,11 +747,11 @@ function apply_class_exclusion(e)
 
 
             <link rel="alternate" type="application/rss+xml" title="Dòng thông tin CENTRAL &raquo;"
-                href="https://www.centralcons.vn/feed/" />
+                href="/feed/" />
             <link rel="alternate" type="application/rss+xml" title="CENTRAL &raquo; Dòng bình luận"
-                href="https://www.centralcons.vn/comments/feed/" />
+                href="/comments/feed/" />
             <link rel='stylesheet' id='wp-block-library-css'
-                href='https://www.centralcons.vn/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2'
+                href='/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2'
                 media='all' />
             <style id='classic-theme-styles-inline-css'>
                 /*! This file is auto-generated */
@@ -1583,7 +1583,7 @@ function apply_class_exclusion(e)
                     <div class="slider_projects">
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/sol-forest-ecopark/"></a>
+                                <a href="/project/sol-forest-ecopark/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/06/c3-scaled.jpg"
                                         class="img-fluid" alt="">
@@ -1620,7 +1620,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/alma-resort/"></a>
+                                <a href="/project/alma-resort/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/07/ALMA-RESORT-CAM-RANH-tam-retouch-dọc.jpg"
                                         class="img-fluid" alt="">
@@ -1657,7 +1657,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/red-ruby/"></a>
+                                <a href="/project/red-ruby/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/04/prj4.jpg"
                                         class="img-fluid" alt="">
@@ -1695,7 +1695,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/opal-tower/"></a>
+                                <a href="/project/opal-tower/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/04/opal-scaled.jpg"
                                         class="img-fluid" alt="">
@@ -1732,7 +1732,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/uoa-tower/"></a>
+                                <a href="/project/uoa-tower/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/04/UOA.jpg"
                                         class="img-fluid" alt="">
@@ -1770,7 +1770,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/vinhomes-grand-park-the-origami/"></a>
+                                <a href="/project/vinhomes-grand-park-the-origami/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/04/the-origami-scaled.jpg"
                                         class="img-fluid" alt="">
@@ -1809,7 +1809,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/grand-world-phu-quoc/"></a>
+                                <a href="/project/grand-world-phu-quoc/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/04/ks-pq.png"
                                         class="img-fluid" alt="">
@@ -1847,7 +1847,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/tuye%cc%82n-so%cc%9bn/"></a>
+                                <a href="/project/tuye%cc%82n-so%cc%9bn/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/04/TAKASHI-680X855.jpg"
                                         class="img-fluid" alt="">
@@ -1887,7 +1887,7 @@ function apply_class_exclusion(e)
                         </div>
                         <div class="item">
                             <div class="wrapper">
-                                <a href="https://www.centralcons.vn/project/the-metropole/"></a>
+                                <a href="/project/the-metropole/"></a>
                                 <figure>
                                     <img src="https://www.centralcons.vn/wp-content/uploads/2022/04/METROPOLE-680-X-855-scaled.jpg"
                                         class="img-fluid" alt="">
