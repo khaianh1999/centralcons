@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/phat-trien-nguon-nhan-luc", {data:[{}],fetch:{},mutations:void 0});

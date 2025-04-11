@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/what-we-do/cong-nghe-bim", {data:[{}],fetch:{},mutations:void 0});

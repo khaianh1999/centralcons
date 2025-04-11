@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about-central/nhan-su-chu-chot", {data:[{}],fetch:{},mutations:void 0});

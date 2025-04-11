@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about-central/tam-nhin-gia-tri-cot-loi", {data:[{}],fetch:{},mutations:void 0});

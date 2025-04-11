@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/van-hoa-central", {data:[{}],fetch:{},mutations:void 0});

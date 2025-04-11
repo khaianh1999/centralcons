@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about-central/thong-diep-chu-tich", {data:[{}],fetch:{},mutations:void 0});

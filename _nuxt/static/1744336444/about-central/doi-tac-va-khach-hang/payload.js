@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about-central/doi-tac-va-khach-hang", {data:[{}],fetch:{},mutations:void 0});

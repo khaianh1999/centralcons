@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tin-du-an", {data:[{}],fetch:{},mutations:void 0});
